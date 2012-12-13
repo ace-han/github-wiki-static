@@ -1,4 +1,4 @@
 github-wiki-static
 ==================
 
-Static resources reference with ace-han's github
+Static resources reference within ace-han's github
